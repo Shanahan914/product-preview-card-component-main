@@ -22,7 +22,7 @@ body{
 
 .img-container{
     width: 300px;
-    background-image: url('/Users/martins/Library/CloudStorage/OneDrive-Personal/CS projects/Frontend Mentor/product-preview-card-component-main/images/image-product-desktop.jpg');
+    background-image: url('images/image-product-desktop.jpg');
     background-size: 100%;
 }
 
@@ -91,7 +91,7 @@ button:hover{
     .img-container{
         max-width: 300px;
         height: 200px;
-        background-image: url('/Users/martins/Library/CloudStorage/OneDrive-Personal/CS projects/Frontend Mentor/product-preview-card-component-main/images/image-product-mobile.jpg');
+        background-image: url('images/image-product-mobile.jpg');
         background-repeat: no-repeat;
     }
     
